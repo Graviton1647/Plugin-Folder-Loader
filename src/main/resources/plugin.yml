@@ -1,0 +1,6 @@
+name: PluginOrganizer
+version: 1.0
+api-version: 1.15
+main: org.cube.plugin.PluginOrganizer
+author: Gravition
+prefix: PluginOrganizer
